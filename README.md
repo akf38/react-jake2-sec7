@@ -1,2 +1,2 @@
-# react-jake2-sec7
+# react-jake2-atomicdesign
 Created with CodeSandbox
